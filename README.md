@@ -29,4 +29,4 @@ Idiomas hablados:
 * Español
 * Inglés
 
-En caso de necesitar contactarme, preferiblemente que sea medio del correo proveído. Si es necesario una respuesta inmediata, la mayoría del tiempo estoy atento al teléfono (Signal o Whatsapp)
+En caso de necesitar contactarme, preferiblemente que sea por medio del correo proveído. Si es necesario una respuesta inmediata, la mayoría del tiempo estoy atento al teléfono. (Signal o Whatsapp)
