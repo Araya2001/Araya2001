@@ -16,7 +16,7 @@ Estudiante de Universidad Cenfotec - BITIC
 
 Nombre: Alejandro Araya Jiménez
 
-OS de preferencia: OpenSUSE Tumbleweed
+OS de preferencia: Arch
 
 Contacto:
 * Correo personal: araya2001@outlook.es
