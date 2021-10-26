@@ -1,7 +1,3 @@
-▄▀█ ▄▀█ ░░█
-█▀█ █▀█ █▄█
-
-
 Estudiante de Universidad Cenfotec - BITIC
 
 Nombre: Alejandro Araya Jiménez
