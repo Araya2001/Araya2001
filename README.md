@@ -3,6 +3,8 @@
 ---
 Estudiante de Universidad Cenfotec - BITIC
 
+Desarrollador de Backend - Moovin
+
 Nombre: Alejandro Araya Jiménez
 
 OS de preferencia: Arch
