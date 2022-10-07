@@ -1,7 +1,6 @@
 # AAJ
 #### Información y Contacto
 ---
-Estudiante de Universidad Cenfotec - BITIC
 
 Desarrollador de Backend - Moovin
 
