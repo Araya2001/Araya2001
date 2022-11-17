@@ -9,7 +9,7 @@ Nombre: Alejandro Araya Jiménez
 OS de preferencia: Arch
 
 Contacto:
-* Correo personal: araya2001@outlook.es
+* Correo: a@aaj-dev.io
 * Número de Teléfono: +506 8724-0563
 
 Multiples proyectos y conocimiento adquirido se encuentran en distintos repositorios, el repositorio con más peso, actualmente, es el siguiente:
