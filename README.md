@@ -2,7 +2,7 @@
 #### Información y Contacto
 ---
 
-Desarrollador de Backend - Moovin
+Amazon - Business Intelligence Engineer I
 
 Nombre: Alejandro Araya Jiménez
 
