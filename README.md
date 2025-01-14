@@ -2,7 +2,7 @@
 #### Información y Contacto
 ---
 
-Amazon - Business Intelligence Engineer I
+Amazon - Systems Development Engineer
 
 Nombre: Alejandro Araya Jiménez
 
